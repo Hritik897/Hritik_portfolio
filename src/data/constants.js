@@ -137,6 +137,36 @@ export const experiences = [
       ],
       doc: " ",
     },
+     {
+      id: 0,
+      img:"https://www.google.com/imgres?q=hubspot%20crm&imgurl=https%3A%2F%2Fwww.appvizer.fr%2Fmedia%2Fapplication%2F32587%2Fcover%2F153439%2Fcover-hubspot-crm&imgrefurl=https%3A%2F%2Fwww.appvizer.co.uk%2Fcustomer%2Fclient-relationship-mgt%2Fhubspot-crm&docid=0xNNaqeWobiZVM&tbnid=e12ZB8QzgV-mNM&vet=12ahUKEwjZmYvDoc2IAxUvTWwGHbWtF2UQM3oECHMQAA..i&w=767&h=270&hcb=2&ved=2ahUKEwjZmYvDoc2IAxUvTWwGHbWtF2UQM3oECHMQAA",
+      role: "HubSpot CRM Admin ",
+      company: "Freelancer",
+      date: "June 2024 - Aug 2024",
+      desc: "Managed data fields and customized CRM entries for specific business needs. Added value by improving CRM performance and aligning it with business processes. Keep track of leads and customers at different stages in their journey ",
+      skills: [
+        "Data Field",
+        "Research Skills",
+         "Value Add"
+      ],
+      doc: " ",
+    },
+     {
+      id: 0,
+         img:""
+       role: "Lead Generation Executive ",
+      company: "Freelancer",
+       date: "June 2024 - Aug 2024",
+    desc:"Used LinkedIn and LinkedIn Sales Navigator to target audiences and clients. Direct messaging to C-level officers with customized, value-added notes. Sent tailored InMail messages per client requirements to foster relationships. ",
+      skills: [
+        "Target Audience Client",
+        " linkedln Sales Navigator",
+        " Customized Inmail",
+        " C-Level Connection Building",
+        "  Research Skills",
+      ],
+      doc: " ",
+    },
     {
       id: 0,
       img: "https://destinyitservices.com/assets/destiny_logo.png",

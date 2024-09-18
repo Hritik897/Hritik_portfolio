@@ -3,11 +3,13 @@ export const Bio = {
     roles: [
       "Business Development Executive(BDE)",
       "React Developer",
-      "Wordpress Developer"
+      "Wordpress Developer",
+        "HubSpot CRM Admin ",
+        "Lead Generation Executive",
     ],
     description: " An Business Development Executive(Upwork bidder) with a proven track record of securing high-value projects. Along with expertise in writing persuasive proposals and managing client relationships, I have strong technical skills in HTML, CSS, JavaScript, ReactJS, WordPress, and Figma. My experience in handling multiple Upwork profiles and web development makes me a great fit for your team. ",
     github: "https://github.com/Hritik897",
-    resume: "https://drive.google.com/file/d/1ffZrcMcn8UatXGIaautbbqpV7ADNaETA/view?usp=sharing",
+    resume: "",
     linkedin: "www.linkedin.com/in/hritik-pandey-b73910225",
     twitter: "",
     insta: "",

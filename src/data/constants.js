@@ -7,7 +7,7 @@ export const Bio = {
         "HubSpot CRM Admin ",
         "Lead Generation Executive",
     ],
-    description: " An Business Development Executive(Upwork bidder) with a proven track record of securing high-value projects. Along with expertise in writing persuasive proposals and managing client relationships, I have strong technical skills in HTML, CSS, JavaScript, ReactJS, WordPress, and Figma. My experience in handling multiple Upwork profiles and web development makes me a great fit for your team. ",
+    description: "   Frontend Developer and Business Development Executive (Upwork Bidder, Lead Generation to LeadConversion), with a proven track record of managing client projects from Lead Generation to Lead Conversion. Proficient in HubSpot CRM as an Admin, lead generation using LinkedIn Sales Navigator, and writing winning proposals on Upwork. Experienced in both front-end and Learning back-end development, focusing on delivering exceptional user experiences. Skilled at collaborating with teams, customizing workflows, and ensuring project success.. ",
     github: "https://github.com/Hritik897",
     resume: "",
     linkedin: "www.linkedin.com/in/hritik-pandey-b73910225",

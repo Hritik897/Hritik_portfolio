@@ -226,7 +226,7 @@ export const education = [
       date: "2019 - 2021",
       grade: "78.20%",
       desc: "I completed my Intermediate at+2Govt Janta High School, West Champaran where I studied Maths, Physics and Chemistry stream.",
-      degree: "BSEB-(PCB) ( Physics, Chemistry, Maths)",
+      degree: "BSEB-(PCM) ( Physics, Chemistry, Maths)",
     },
     {
       id: 2,

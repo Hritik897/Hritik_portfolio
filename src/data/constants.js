@@ -153,7 +153,7 @@ export const experiences = [
     },
      {
       id: 0,
-         img:""
+               img:"https://www.google.com/imgres?q=hubspot%20crm&imgurl=https%3A%2F%2Fwww.appvizer.fr%2Fmedia%2Fapplication%2F32587%2Fcover%2F153439%2Fcover-hubspot-crm&imgrefurl=https%3A%2F%2Fwww.appvizer.co.uk%2Fcustomer%2Fclient-relationship-mgt%2Fhubspot-crm&docid=0xNNaqeWobiZVM&tbnid=e12ZB8QzgV-mNM&vet=12ahUKEwjZmYvDoc2IAxUvTWwGHbWtF2UQM3oECHMQAA..i&w=767&h=270&hcb=2&ved=2ahUKEwjZmYvDoc2IAxUvTWwGHbWtF2UQM3oECHMQAA",
        role: "Lead Generation Executive ",
       company: "Freelancer",
        date: "June 2024 - Aug 2024",

@@ -1,7 +1,7 @@
 export const Bio = {
     name: "Hritik Pandey",
     roles: [
-      "Business Dev Executive(BDE)",
+      "Business Development Executive(BDE)",
       "React Developer",
       "Wordpress Developer"
     ],
@@ -16,7 +16,7 @@ export const Bio = {
   
 export const skills = [
   {
-    title: "Business Development Execuive Skills",
+    title: "Business Development Executive",
     skills: [
       {
         name: "Upwork",
@@ -124,9 +124,9 @@ export const experiences = [
     {
       id: 0,
       img: "data:image/png;base64,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",
-      role: "Upwork Bidder (Freelancer)",
-      company: " ",
-      date: "MAY 2023 - NOW",
+      role: "Upwork Bidder",
+      company: "Freelancer",
+      date: "MAY 2022 - NOW",
       desc: "Upwork bidder with a proven track record of engaging high-value projects. Skilled in writing , convincing proposals that align with client needs. Proficient at managing client dealings and ensuring project success , Manage Upwork Profile of different Tech & Find a relevant job , Proposals Writing & Response to Proposals ",
       skills: [
         "Profile Optimization",
